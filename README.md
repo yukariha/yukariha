@@ -1,6 +1,8 @@
 ## Hello there ! 👋
 Less is more; therefore, I won't write anything more than this
 
+It's not like anyone is going to be reading this anyway; I should write to someone who would care... like a computer!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103)](https://github.com/anuraghazra/github-readme-stats)
 
 
