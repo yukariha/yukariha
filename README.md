@@ -1,5 +1,5 @@
 ## Hello there ! 👋
-Less is more; therefore, I won't write anything more than this
+Less is more; therefore, I won't write anything more than this.
 
 It's not like anyone is going to be reading this anyway; I should write to someone who would care... like a computer!
 
