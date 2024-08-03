@@ -1,5 +1,5 @@
-
-less is more, privacy.
+## Hello there ! 👋
+Less is more; therefore, I won't write anything more than this
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103)](https://github.com/anuraghazra/github-readme-stats)
 
