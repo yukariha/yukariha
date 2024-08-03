@@ -1,4 +1,9 @@
 
+less is more, because
+
+```py
+a = [b * b for b in range(10)]
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103)](https://github.com/anuraghazra/github-readme-stats)
 
