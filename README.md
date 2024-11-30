@@ -1,26 +1,33 @@
-## Hello there ! 👋
-Less is more; therefore, I won't write anything more than this.
+# Make Yourself at Home  
 
-It's not like anyone is going to be reading this anyway; I should write to someone who would care... like a computer!
+Hello, I go by many names, but you can call me **Shirakawa**.  
+I’m passionate about open source, efficiency, and the idea that "less is more."
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103)](https://github.com/anuraghazra/github-readme-stats)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103&layout=compact)
+---
 
+## About Me  
 
+- **Open Source Philosophy**: I believe great software should be open.
+- **Efficiency First**: I aim to write code that is simple, clean, and effective.
+- **Keeping it simple**: I value simplicity in both design and implementation.  
 
-<!--
-**airi103/airi103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Technologies and Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,bash,c,cpp,rust)](https://skillicons.dev)  
+
+Currently diving deeper into:  
+- **Front-End Development**: Exploring frameworks like Svelte.  
+- **Lower-level Programming**: Learning C and Rust for low-level, high-performance applications.  
+
+---
+
+## Languages I use
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=airi103&layout=compact&theme=default)  
+
+---
+
+Feel free to browse my repositories or get in touch.  
+Thank you for visiting!  
