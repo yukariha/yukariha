@@ -15,7 +15,7 @@ I’m passionate about open source, efficiency, and the idea that "less is more.
 
 ## Technologies and Tools  
 
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,bash,c,cpp,rust)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,bash,nix,c,cpp,rust)](https://skillicons.dev)  
 
 Currently diving deeper into:  
 - **Front-End Development**: Exploring frameworks like Svelte.  
